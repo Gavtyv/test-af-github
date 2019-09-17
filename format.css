@@ -1,0 +1,19 @@
+body{
+	background-color: pink;
+}
+img{
+width: 100%;
+}
+#content {
+	width: 80%;
+	margin: auto;
+}
+#text{
+	background-color; purple;
+}
+#list{
+background-color: purple;
+}
+#textcolor{
+color: yellow;
+}
